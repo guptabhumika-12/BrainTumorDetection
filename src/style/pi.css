@@ -1,0 +1,50 @@
+.form-group{
+    margin-bottom: 15px;
+    padding: 0px 5px 10px 5px;
+}
+.submit-btn{
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+
+}
+.btn {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    opacity: 0.9;
+}
+.reset{
+    background-color: #ff0000;
+    color: white;
+    margin-left: 10px;
+}
+.pi-form{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
+    background-color: #cceeff;
+    width: 100%;
+    min-height: 100vh;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
+.form-select{
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+}
